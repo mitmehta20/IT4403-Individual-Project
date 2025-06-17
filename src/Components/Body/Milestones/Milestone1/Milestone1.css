@@ -1,0 +1,12 @@
+.fullBody {
+    margin-top: 5px;
+}
+
+.title {
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.viewOptions button {
+    margin: 10px;
+}

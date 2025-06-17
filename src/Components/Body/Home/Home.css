@@ -1,0 +1,19 @@
+.centerContainer {
+    text-align: center;
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+    margin-top: 50px;
+}
+
+.milestone-links {
+    justify-content: center;
+    display: flex;
+}
+
+.milestone-row {
+    text-align: center;
+}
+
+.milestone-data {
+    text-align: center;
+}

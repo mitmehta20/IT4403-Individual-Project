@@ -1,0 +1,40 @@
+.search-item-container {
+    grid-template-rows: auto auto;
+    display: grid;
+    margin-left: 5px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    border-bottom: 2px solid black;
+    padding-bottom: 5px;
+}
+
+.search-item-title {
+    margin-bottom: 10px;
+}
+
+.book-title {
+    font-size: 25px;
+}
+
+.book-author-publisher {
+    font-size: 15px;
+    font-style: oblique;
+}
+
+.search-item-info {
+    grid-template-columns: 128px auto;
+    display: grid;
+}
+
+.search-item-info-right {
+    margin-left: 15px;
+    margin-right: 25%;
+}
+
+.search-item-url {
+    font-size: 15px;
+}
+
+.book-description {
+
+}
