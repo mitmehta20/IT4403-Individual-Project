@@ -1,5 +1,5 @@
 {
-  "homepage": "http://mmehta7.github.io/IT4403-individual-project",
+  "homepage": "https://mitmehta20.github.io/IT4403-individual-project",
   "name": "it4303-individual-project",
   "private": true,
   "version": "0.0.0",
@@ -10,7 +10,8 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist",
+    "start": "vite"
   },
   "dependencies": {
     "bootstrap": "^5.3.6",
@@ -22,7 +23,7 @@
     "@eslint/js": "^9.25.0",
     "@types/react": "^19.1.2",
     "@types/react-dom": "^19.1.2",
-    "@vitejs/plugin-react": "^4.4.1",
+    "@vitejs/plugin-react": "^4.5.2",
     "eslint": "^9.25.0",
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.19",
