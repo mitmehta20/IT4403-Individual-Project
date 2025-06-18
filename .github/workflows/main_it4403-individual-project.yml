@@ -68,5 +68,5 @@ jobs:
         with:
           app-name: 'IT4403-Individual-Project'
           slot-name: 'Production'
-          package: .
+          package: ./dist
           
