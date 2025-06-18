@@ -1,0 +1,283 @@
+{
+    "ISBN:0201558025": {
+      "url": "https://openlibrary.org/books/OL1429049M/Concrete_mathematics",
+      "key": "/books/OL1429049M",
+      "title": "Concrete mathematics",
+      "subtitle": "a foundation for computer science",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL720958A/Ronald_L._Graham",
+          "name": "Ronald L. Graham"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL229501A/Donald_Knuth",
+          "name": "Donald Knuth"
+        },
+        {
+          "url": "https://openlibrary.org/authors/OL2669938A/Oren_Patashnik",
+          "name": "Oren Patashnik"
+        }
+      ],
+      "number_of_pages": 657,
+      "pagination": "xiii, 657 p. :",
+      "by_statement": "Ronald L. Graham, Donald E. Knuth, Oren Patashnik.",
+      "identifiers": {
+        "librarything": [
+          "45844"
+        ],
+        "wikidata": [
+          "Q15303722"
+        ],
+        "goodreads": [
+          "112243"
+        ],
+        "isbn_10": [
+          "0201558025"
+        ],
+        "lccn": [
+          "93040325"
+        ],
+        "oclc": [
+          "29357079"
+        ],
+        "openlibrary": [
+          "OL1429049M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "QA39.2 .G733 1994",
+          "QA39.2.G733 1994"
+        ],
+        "dewey_decimal_class": [
+          "510"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Addison-Wesley"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "Reading, Mass"
+        }
+      ],
+      "publish_date": "1994",
+      "subjects": [
+        {
+          "name": "Computer science",
+          "url": "https://openlibrary.org/subjects/computer_science"
+        },
+        {
+          "name": "Mathematics",
+          "url": "https://openlibrary.org/subjects/mathematics"
+        },
+        {
+          "name": "Computer science, mathematics",
+          "url": "https://openlibrary.org/subjects/computer_science,_mathematics"
+        },
+        {
+          "name": "Algorithmes",
+          "url": "https://openlibrary.org/subjects/algorithmes"
+        },
+        {
+          "name": "Informatique",
+          "url": "https://openlibrary.org/subjects/informatique"
+        },
+        {
+          "name": "Algorithme",
+          "url": "https://openlibrary.org/subjects/algorithme"
+        },
+        {
+          "name": "Mathématiques pour informatique",
+          "url": "https://openlibrary.org/subjects/mathématiques_pour_informatique"
+        },
+        {
+          "name": "Calcul formel",
+          "url": "https://openlibrary.org/subjects/calcul_formel"
+        },
+        {
+          "name": "Programmation",
+          "url": "https://openlibrary.org/subjects/programmation"
+        },
+        {
+          "name": "Mathématiques",
+          "url": "https://openlibrary.org/subjects/mathématiques"
+        },
+        {
+          "name": "Computer science--mathematics",
+          "url": "https://openlibrary.org/subjects/computer_science--mathematics"
+        },
+        {
+          "name": "Matemáticas",
+          "url": "https://openlibrary.org/subjects/matemáticas"
+        },
+        {
+          "name": "Ciencias computacionales--matemáticas",
+          "url": "https://openlibrary.org/subjects/ciencias_computacionales--matemáticas"
+        },
+        {
+          "name": "Wiskundige methoden",
+          "url": "https://openlibrary.org/subjects/wiskundige_methoden"
+        },
+        {
+          "name": "Software",
+          "url": "https://openlibrary.org/subjects/software"
+        },
+        {
+          "name": "Informatique--mathématiques",
+          "url": "https://openlibrary.org/subjects/informatique--mathématiques"
+        },
+        {
+          "name": "Analysis",
+          "url": "https://openlibrary.org/subjects/analysis"
+        },
+        {
+          "name": "Zahlentheorie",
+          "url": "https://openlibrary.org/subjects/zahlentheorie"
+        },
+        {
+          "name": "Qa39.2 .g733 1994",
+          "url": "https://openlibrary.org/subjects/qa39.2_.g733_1994"
+        },
+        {
+          "name": "510",
+          "url": "https://openlibrary.org/subjects/510"
+        },
+        {
+          "name": "54.10",
+          "url": "https://openlibrary.org/subjects/54.10"
+        },
+        {
+          "name": "Dat 542f",
+          "url": "https://openlibrary.org/subjects/dat_542f"
+        },
+        {
+          "name": "Mat 100f",
+          "url": "https://openlibrary.org/subjects/mat_100f"
+        },
+        {
+          "name": "Sk 110",
+          "url": "https://openlibrary.org/subjects/sk_110"
+        },
+        {
+          "name": "St 110",
+          "url": "https://openlibrary.org/subjects/st_110"
+        },
+        {
+          "name": "Ciencias computacionales",
+          "url": "https://openlibrary.org/subjects/ciencias_computacionales"
+        },
+        {
+          "name": "Long Now Manual for Civilization",
+          "url": "https://openlibrary.org/subjects/long_now_manual_for_civilization"
+        }
+      ],
+      "notes": "Includes bibliographical references (p. 604-631) and index.",
+      "ebooks": [
+        {
+          "preview_url": "https://archive.org/details/concretemathemat00grah_444",
+          "availability": "full",
+          "formats": {
+            "pdf": {
+              "url": "https://archive.org/download/concretemathemat00grah_444/concretemathemat00grah_444.pdf"
+            },
+            "epub": {
+              "url": "https://archive.org/download/concretemathemat00grah_444/concretemathemat00grah_444.epub"
+            },
+            "text": {
+              "url": "https://archive.org/download/concretemathemat00grah_444/concretemathemat00grah_444_djvu.txt"
+            }
+          },
+          "read_url": "https://archive.org/stream/concretemathemat00grah_444"
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/135182-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/135182-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/135182-L.jpg"
+      }
+    },
+    "LCCN:93005405": {
+      "url": "https://openlibrary.org/books/OL1397864M/Zen_speaks",
+      "key": "/books/OL1397864M",
+      "title": "Zen speaks",
+      "subtitle": "shouts of nothingness",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL223368A/Zhizhong_Cai",
+          "name": "Zhizhong Cai"
+        }
+      ],
+      "number_of_pages": 159,
+      "pagination": "159 p. :",
+      "identifiers": {
+        "librarything": [
+          "192819"
+        ],
+        "goodreads": [
+          "979250"
+        ],
+        "isbn_10": [
+          "0385472579"
+        ],
+        "lccn": [
+          "93005405"
+        ],
+        "oclc": [
+          "28419896"
+        ],
+        "openlibrary": [
+          "OL1397864M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "BQ9265.6 .T7313 1994"
+        ],
+        "dewey_decimal_class": [
+          "294.3/927"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Anchor Books"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "New York"
+        }
+      ],
+      "publish_date": "1994",
+      "subjects": [
+        {
+          "name": "Caricatures and cartoons",
+          "url": "https://openlibrary.org/subjects/caricatures_and_cartoons"
+        },
+        {
+          "name": "Zen Buddhism",
+          "url": "https://openlibrary.org/subjects/zen_buddhism"
+        },
+        {
+          "name": "Zen buddhism",
+          "url": "https://openlibrary.org/subjects/zen_buddhism"
+        }
+      ],
+      "ebooks": [
+        {
+          "preview_url": "https://archive.org/details/zenspeaksshoutso0000caiz",
+          "availability": "borrow",
+          "formats": {},
+          "borrow_url": "https://openlibrary.org/books/OL1397864M/Zen_speaks/borrow",
+          "checkedout": false
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/240726-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/240726-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/240726-L.jpg"
+      }
+    }
+  }
