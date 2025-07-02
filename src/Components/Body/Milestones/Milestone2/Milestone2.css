@@ -1,0 +1,15 @@
+.full-container {
+    grid-template-rows: 15px auto;
+}
+
+.tab-container {
+    margin: 10px 0px 10px 0px;
+}
+
+.tab-button {
+ margin-right: 10px;
+}
+
+.title-header {
+    margin-top: 15px;
+}
