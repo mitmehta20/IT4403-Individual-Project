@@ -14,6 +14,7 @@ const Home = () => {
       <table className='milestone-links'>
         <tbody>
           <tr className='milestone-row'><td className='milestone-data'><Link to='/milestone1'>Milestone 1</Link></td></tr>
+          <tr className='milestone-row'><td className='milestone-data'><Link to='/milestone2'>Milestone 2</Link></td></tr>
         </tbody>
       </table>
     </div>
