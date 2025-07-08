@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom'
 const Header = () => {
 
   const [ showMilestones, setShowMilestones ] = useState(false);
-  const [ milestones, setMilestones ] = useState(['Milestone 1', 'Milestone 2']);
+  const [ milestones, setMilestones ] = useState(['Milestone 1', 'Milestone 2', 'Milestone 3']);
 
   const onShowMilestones = () => {
     setShowMilestones(!showMilestones);
