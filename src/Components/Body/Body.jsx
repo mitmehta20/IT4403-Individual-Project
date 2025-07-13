@@ -5,6 +5,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Milestone1 from './Milestones/Milestone1/Milestone1'
 import Milestone2 from './Milestones/Milestone2/Milestone2';
 import Milestone3 from './Milestones/Milestone3/Milestone3';
+import Milestone4 from './Milestones/Milestone4/Milestone4';
 
 const Body = () => {
   return (
@@ -14,6 +15,7 @@ const Body = () => {
                 <Route path='/milestone1' element={<Milestone1/>}/>
                 <Route path='/milestone2' element={<Milestone2/>}/>
                 <Route path='/milestone3' element={<Milestone3/>}/>
+                <Route path='/milestone4' element={<Milestone4/>}/>
             </Routes>
 
         </div>

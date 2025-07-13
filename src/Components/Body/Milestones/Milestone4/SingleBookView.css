@@ -1,0 +1,120 @@
+.mileston-4-book-main-content {
+    grid-template-columns: 180px auto;
+    display: grid;
+  }
+  
+  .mileston-4-book-left-section {
+    grid-column: 1;
+    padding: 30px;
+  }
+  
+  .mileston-4-book-right-section {
+    grid-column: 2;
+    padding: 30px;
+  }
+  
+  .mileston-4-book-title {
+    font-size: 30px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+  }
+  
+  .mileston-4-book-subtitle {
+    padding-top: 0px;
+    font-size: 15px;
+    margin-top: 0px;
+    font-style: italic;
+  }
+  
+  .mileston-4-book-authors {
+    font-size: 15px;
+    padding-top: 5px;
+  }
+  
+  .mileston-4-book-description {
+    padding-top: 10px;
+    font-size: 15px;
+  }
+  
+  .mileston-4-book-publisher {
+    font-size: 15px;
+    color: rgba(128, 128, 128, 0.8);
+  }
+  
+  .mileston-4-book-information {
+    margin-top: 2rem;
+    padding: 1.5rem;
+    background-color: #fff;
+    border-radius: 0.5rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .mileston-4-book-information-title {
+    font-size: 20px;  /* Reduced from 1.5rem */
+    color: rgba(0, 0, 0, 0.8);
+    margin-bottom: 1.5rem;
+    font-weight: 600;
+  }
+  
+  .mileston-4-book-information-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;  /* Base font size for table */
+  }
+  
+  .mileston-4-book-information-table tr {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  }
+  
+  .mileston-4-book-information-table tr:last-child {
+    border-bottom: none;
+  }
+  
+  .mileston-4-book-information-table td {
+    padding: 0.75rem 0.5rem;
+    vertical-align: top;
+    line-height: 1.4;  /* Added for better readability */
+  }
+  
+  .mileston-4-book-information-table td:first-child {
+    width: 120px;
+    color: rgba(0, 0, 0, 0.6);
+    font-weight: 500;
+    font-size: 14px;
+  }
+  
+  .mileston-4-book-information-table td:last-child {
+    color: rgba(0, 0, 0, 0.8);
+    font-size: 14px;
+  }
+  
+  .mileston-4-book-information-table tr:hover {
+    background-color: rgba(0, 0, 0, 0.02);
+  }
+  
+  @media (max-width: 768px) {
+    .mileston-4-book-information {
+      padding: 1rem;
+    }
+    
+    .mileston-4-book-information-title {
+      font-size: 18px;
+    }
+    
+    .mileston-4-book-information-table td:first-child {
+      width: 100px;
+      font-size: 13px;
+    }
+    
+    .mileston-4-book-information-table td {
+      padding: 0.75rem 0.5rem;
+      font-size: 13px;
+    }
+  }
+  
+  .mileston-4-back-button {
+    border: 1px solid black;
+    font-size: 15px;
+    padding: 0px 15px 0px 15px;
+    margin-left: 30px;
+  }
