@@ -1,0 +1,445 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 6,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "k39vHp-5VeMC",
+      "etag": "66+wau/HfNc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/k39vHp-5VeMC",
+      "volumeInfo": {
+        "title": "Dracula",
+        "subtitle": "A Mystery Story",
+        "authors": [
+          "Bram Stoker"
+        ],
+        "publishedDate": "1897",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105007336725"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 410,
+        "printType": "BOOK",
+        "categories": [
+          "Transylvania (Romania)"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 27,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "8.12.13.0.full.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=k39vHp-5VeMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=k39vHp-5VeMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com/books?id=k39vHp-5VeMC&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=k39vHp-5VeMC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=k39vHp-5VeMC"
+      },
+      "layerInfo": {
+        "layers": [
+          {
+            "layerId": "geo",
+            "volumeAnnotationsVersion": "64"
+          }
+        ]
+      },
+      "userInfo": {
+        "updated": "2025-07-13T04:29:03.538Z"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=k39vHp-5VeMC&rdid=book-k39vHp-5VeMC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Dracula.epub?id=k39vHp-5VeMC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Dracula.pdf?id=k39vHp-5VeMC&hl=&output=pdf&sig=ACfU3U3bZnVgiOZrRN8hZXPTs6dTtrF_Ew&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=k39vHp-5VeMC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s-AUAAAAQAAJ",
+      "etag": "9CEdnBbLmU0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s-AUAAAAQAAJ",
+      "volumeInfo": {
+        "title": "A Tale of Two Cities",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "publishedDate": "1860",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BCUL:1092354089"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 774,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "6.5.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=s-AUAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=s-AUAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com/books?id=s-AUAAAAQAAJ&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=s-AUAAAAQAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=s-AUAAAAQAAJ"
+      },
+      "userInfo": {
+        "updated": "2025-07-13T04:28:20.783Z"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=s-AUAAAAQAAJ&rdid=book-s-AUAAAAQAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/A_Tale_of_Two_Cities.epub?id=s-AUAAAAQAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/A_Tale_of_Two_Cities.pdf?id=s-AUAAAAQAAJ&hl=&output=pdf&sig=ACfU3U0rvXObzXT612wmTKgTZj28qvokTQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s-AUAAAAQAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mizmlpmQ_z0C",
+      "etag": "ZdESwirEWG0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mizmlpmQ_z0C",
+      "volumeInfo": {
+        "title": "Frankenstein; Or, The Modern Prometheus",
+        "authors": [
+          "Mary Wollstonecraft Shelley"
+        ],
+        "publishedDate": "1846",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NLS:B900125229"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 220,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mizmlpmQ_z0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mizmlpmQ_z0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com/books?id=mizmlpmQ_z0C&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=mizmlpmQ_z0C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=mizmlpmQ_z0C"
+      },
+      "userInfo": {
+        "updated": "2025-07-13T04:26:57.830Z"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=mizmlpmQ_z0C&rdid=book-mizmlpmQ_z0C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Frankenstein_Or_The_Modern_Prometheus.epub?id=mizmlpmQ_z0C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mizmlpmQ_z0C&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XV8XAAAAYAAJ",
+      "etag": "/vmBqjOmi2c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XV8XAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Moby Dick",
+        "authors": [
+          "Herman Melville"
+        ],
+        "publishedDate": "1892",
+        "description": "A literary classic that wasn't recognized for its merits until decades after its publication, Herman Melville's Moby-Dick tells the tale of a whaling ship and its crew, who are carried progressively further out to sea by the fiery Captain Ahab ...",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:HN1E4C"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 576,
+        "printType": "BOOK",
+        "categories": [
+          "Adventure stories"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 305,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.14.0.full.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XV8XAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XV8XAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com/books?id=XV8XAAAAYAAJ&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=XV8XAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=XV8XAAAAYAAJ"
+      },
+      "layerInfo": {
+        "layers": [
+          {
+            "layerId": "geo",
+            "volumeAnnotationsVersion": "30"
+          }
+        ]
+      },
+      "userInfo": {
+        "updated": "2025-07-13T04:25:09.525Z"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=XV8XAAAAYAAJ&rdid=book-XV8XAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Moby_Dick.epub?id=XV8XAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Moby_Dick.pdf?id=XV8XAAAAYAAJ&hl=&output=pdf&sig=ACfU3U2j7tKT8bbSwXHCttT_eX6HUg70aA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XV8XAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YZ_ZuQatEL0C",
+      "etag": "BGjObcIYRIU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YZ_ZuQatEL0C",
+      "volumeInfo": {
+        "title": "Alice's Adventures in Wonderland",
+        "authors": [
+          "Lewis Carroll"
+        ],
+        "publishedDate": "1899",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UGA:32108034786874"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 212,
+        "printType": "BOOK",
+        "categories": [
+          "Alice (Fictitious character : Carroll)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YZ_ZuQatEL0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YZ_ZuQatEL0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com/books?id=YZ_ZuQatEL0C&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=YZ_ZuQatEL0C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=YZ_ZuQatEL0C"
+      },
+      "userInfo": {
+        "updated": "2025-07-01T06:15:09.302Z"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=YZ_ZuQatEL0C&rdid=book-YZ_ZuQatEL0C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Alice_s_Adventures_in_Wonderland.epub?id=YZ_ZuQatEL0C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YZ_ZuQatEL0C&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s1gVAAAAYAAJ",
+      "etag": "or3mJ+k2XEs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s1gVAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Pride and Prejudice",
+        "authors": [
+          "Jane Austen"
+        ],
+        "publishedDate": "1918",
+        "description": "Austen’s most celebrated novel tells the story of Elizabeth Bennet, a bright, lively young woman with four sisters, and a mother determined to marry them to wealthy men. At a party near the Bennets’ home in the English countryside, Elizabeth ...",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:32044086796588"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 448,
+        "printType": "BOOK",
+        "categories": [
+          "Courtship"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 374,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.13.0.full.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=s1gVAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=s1gVAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com/books?id=s1gVAAAAYAAJ&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=s1gVAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=s1gVAAAAYAAJ"
+      },
+      "layerInfo": {
+        "layers": [
+          {
+            "layerId": "geo",
+            "volumeAnnotationsVersion": "26"
+          }
+        ]
+      },
+      "userInfo": {
+        "updated": "2025-07-01T06:14:19.662Z"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=s1gVAAAAYAAJ&rdid=book-s1gVAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Pride_and_Prejudice.epub?id=s1gVAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Pride_and_Prejudice.pdf?id=s1gVAAAAYAAJ&hl=&output=pdf&sig=ACfU3U3dQw5JDWdbVgk2VRHyDjVMT4oIaA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s1gVAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}
